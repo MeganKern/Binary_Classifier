@@ -1,5 +1,5 @@
 ## To see all outputs with no error
-Go to Kaggle version - link 'kaggle version'
+Go to [Kaggle version](https://www.kaggle.com/megankern/pytorch-lightning-w-ray-tune "Kaggle version")
 
 
 ## To run cells for yourself
